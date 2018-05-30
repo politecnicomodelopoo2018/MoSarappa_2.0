@@ -1,7 +1,7 @@
-from Ej8ClassTrabajadores  import trabajador
-from Ej8ClassProgramas import  programa
-from Ej8ClassProgramas import  programa_musica
-from Ej8ClassRadio import  radio
+from Ej8ClassTrabajadores import trabajador
+from Ej8ClassProgramas import programa
+from Ej8ClassProgramas import programa_musica
+from Ej8ClassRadio import radio
 
 
 unaRadio = radio()
